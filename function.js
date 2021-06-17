@@ -29,8 +29,8 @@ console.log(left())
 
 
 
-function divides( Abhishek , roy){
-    return Abhishek * roy;
+function divides( a, r){
+    return a * r;
 }
 console.log(divides(100, 200 ) )
 console.log(divides ( "Priya" , "Riya"))
